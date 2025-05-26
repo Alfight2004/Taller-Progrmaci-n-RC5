@@ -149,3 +149,33 @@ El sistema debe mostrar los detalles de la reserva (cliente, habitación, fechas
 
 - *¿Para qué sirve?*  
   Es el punto de entrada al sistema. Simula la ejecución y prueba del programa.
+  [8:35 p.m., 25/5/2025] DERECK U: ## 📋 Requerimientos del Sistema Hotelero
+
+### 🧑‍💼 Clientes y Usuarios
+
+| Rol      | Descripción                                            |
+|----------|--------------------------------------------------------|
+| Cliente  | Propietarios y administradores del Hotel              |
+| Usuario  | Personal del hotel como administrativo y Clientes     |
+
+---
+
+### ✅ Requerimientos Funcionales
+
+| Código | Requerimiento                                                                 |
+|--------|--------------------------------------------------------------------------------|
+| RF1    | *Registro de Clientes:* El sistema debe permitir registrar la información básica de un cliente: nombre completo y número de cédula. |
+| RF2    | *Visualización de la Disponibilidad d…
+[8:36 p.m., 25/5/2025] DERECK U: pero veras que antes de que ingreses las dos cosas que te di
+[8:36 p.m., 25/5/2025] DERECK U: debias borrar lo que había desde un inicio
+[8:41 p.m., 25/5/2025] DERECK U: Y esto también
+[8:41 p.m., 25/5/2025] DERECK U: ## INTEGRANTES Y SUS ROLES
+
+| ROL           | LIDER                                                     |
+|---------------|------------------------------------------------------------|
+| Cliente       | Alejandro Acosta                                          |
+| Analista      | Dereck Proaño                                             |
+| Arquitecto    | Dereck Proaño                                             |
+| Desarrollador | Alejandro Acosta, Dereck Proaño, Fernando Salazar        |
+| Tester        | Fernando Salazar                                          |
+| Líder         | Dereck Proaño                                             |
