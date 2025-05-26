@@ -65,10 +65,7 @@ El sistema está compuesto por los siguientes módulos principales:
 - Empleado
 - Reserva
 - Habitacion
-- Articulo
-- Factura
 - Hotel (clase central)
-- Login / Registro
 - Sistema (Main)
 
 ---
